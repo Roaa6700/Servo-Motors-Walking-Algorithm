@@ -49,7 +49,11 @@ This project simulates a humanoid robot using **4 servo motors** controlled by a
 The objective of this project is to simulate the **basic control of servo motors** and understand the **logical sequence for humanoid walking**, which can later be expanded with more servos or sensors.
 
 ---
+ ## Demo Video
+![Demo](4Servo-g.gif)
 
+
+---
 ## Platform
 
 - [Tinkercad Circuits](https://www.tinkercad.com/)
